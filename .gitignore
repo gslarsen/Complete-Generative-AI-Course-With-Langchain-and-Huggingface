@@ -16,7 +16,7 @@
 
 # Data files
 *.csv
-*.txt
+# *.txt
 
 # IDE specific files
 .vscode/
